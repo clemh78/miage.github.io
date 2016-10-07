@@ -1,5 +1,5 @@
 ---
-title: "Évennements"
+title: "Événements"
 bg: yellow
 color: grey
 fa-icon: calendar
@@ -19,4 +19,4 @@ Pour fêter le démarrage de la nouvelle année scolaire, votre cher BDE vous fa
 
 ---
 
-[<button style="background: #2e2e2e;color:white;border-color: #e9ca71 !important;font-size:20px;width:40px;" ><i class="fa fa-facebook" aria-hidden="true"></i></button> Évennement Facebook](https://www.facebook.com/events/1108025562584361/){:target="_blank"} [<button style="background: #2e2e2e;color:white;border-color: #e9ca71 !important;font-size:20px;width:40px;margin-left:30px;" ><i class="fa fa-shopping-cart" aria-hidden="true"></i></button> Billeterie](https://www.billetweb.fr/soiree-dintegration-et-halloween){:target="_blank"}
+[<button style="background: #2e2e2e;color:white;border-color: #e9ca71 !important;font-size:20px;width:40px;" ><i class="fa fa-facebook" aria-hidden="true"></i></button> Événement Facebook](https://www.facebook.com/events/1108025562584361/){:target="_blank"} [<button style="background: #2e2e2e;color:white;border-color: #e9ca71 !important;font-size:20px;width:40px;margin-left:30px;" ><i class="fa fa-shopping-cart" aria-hidden="true"></i></button> Billeterie](https://www.billetweb.fr/soiree-dintegration-et-halloween){:target="_blank"}

@@ -16,8 +16,8 @@ markdown: kramdown
 ### content configuration ###
 title:       "BDE Miage Descartes"
 keywords:    "BDE, MIAGE, Descartes"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+description: "BDE Miage Descartes : Site internet officiel du BDE (Bureau Des Étudiants) de la formation MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises) de l'Université Paris Descartes, au 45 rue des Saint-Pères, Paris."
+source_link: "http://bde.miagedescartes.fr"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
