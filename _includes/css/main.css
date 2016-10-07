@@ -121,7 +121,7 @@ nav {
   z-index:100;
   top:0;
   left:0;
-  background:#2e2e2e;
+  background:#e6e6de;
 }
 
 nav ul {
@@ -148,7 +148,7 @@ nav ul li {
 
 nav ul li a, nav ul li a:visited {
   display:block;
-  color:#fff;
+  color:#222222;
   text-decoration:none;
   font-weight:600;
   opacity:.75;
@@ -184,10 +184,10 @@ nav ul li:hover, nav ul li.active {
   padding: 8px 0;
   min-height:0;
   text-align:center;
-  background-color:#2e2e2e;
+  background-color:#e6e6de;
   background-image:none;
 }
-#footer .container p { font-size:13px; margin:0; }
+#footer .container p { font-size:13px; margin:0; color:#222222;}
 
 .subtlecircle {
   text-align:center;
