@@ -1,8 +1,3 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
-&mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
-
+BDE Miage Descartes 2016/2017 - Université Paris Descartes, 45 rue des Saints-Pères 75006 PARIS - contact@bde.miagedescartes.fr
